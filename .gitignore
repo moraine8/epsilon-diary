@@ -5,3 +5,4 @@ docker-compose.yml
 .jekyll-cache
 Gemfile
 Gemfile.lock
+local/
