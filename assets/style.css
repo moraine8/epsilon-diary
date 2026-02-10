@@ -75,6 +75,11 @@ a:hover {
   margin-bottom: 1.0rem;
 }
 
+.post-list__date {
+  color: #606060;
+  font-size: 15px;
+}
+
 .post-header {
   margin-bottom: 1.0rem;
 }

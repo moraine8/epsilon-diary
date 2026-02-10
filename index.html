@@ -5,11 +5,11 @@ title: Home
 
 <h2 class="heading-secondary">記事一覧</h2>
 
-<ul>
+<ul class="post-list">
 {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <span>{{ post.date | date: "%Y.%m.%d" }}</span>
+  <li class="post-list__item">
+    <a class="post-list__link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="post-list__date">({{ post.date | date: "%Y.%m.%d" }})</span>
   </li>
 {% endfor %}
 </ul>

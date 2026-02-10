@@ -70,6 +70,13 @@ a {
     margin-bottom: 1.0rem;
 }
 
+.post-list {
+    &__date {
+        color: $font-color-light;
+        font-size: 15px;
+    }
+}
+
 .post-header {
     margin-bottom: 1.0rem;
 }
