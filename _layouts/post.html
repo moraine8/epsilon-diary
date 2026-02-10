@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="post">
+
+<div class="post-header">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-date">
+    <span>{{ page.date | date: "%Y.%m.%d" }}</span>
+  </div>
+</div>
+
+<div class="post-content">
+  {{ content }}
+</div>
+
+</article>
+
+<div class="article-footer">
+  <a href="{{ '/' | relative_url }}">Back to Top</a>
+</div>

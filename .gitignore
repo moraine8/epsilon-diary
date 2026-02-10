@@ -1,0 +1,7 @@
+_site
+Dockerfile
+docker-compose.yml
+.dockerignore
+.jekyll-cache
+Gemfile
+Gemfile.lock
