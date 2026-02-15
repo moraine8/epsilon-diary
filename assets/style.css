@@ -69,6 +69,15 @@ a:hover {
   margin: 1.0rem 0;
 }
 
+.github-link {
+  text-align: right;
+  margin-bottom: 0.25rem;
+}
+
+.github-link__img {
+  height: 18px;
+}
+
 .heading-secondary {
   font-size: 1.25rem;
   font-weight: bold;
