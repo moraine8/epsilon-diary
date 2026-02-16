@@ -6,3 +6,4 @@ docker-compose.yml
 Gemfile
 Gemfile.lock
 local/
+.DS_Store
