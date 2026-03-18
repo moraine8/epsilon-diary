@@ -7,7 +7,7 @@ timezone: Asia/Tokyo
 
 markdown: kramdown
 
-permalink: /posts/:year/:month/:day/:title/
+permalink: /:year-:month-:day-:title
 
 plugins:
   - jekyll-feed
