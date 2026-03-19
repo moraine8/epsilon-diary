@@ -1,2 +1,2 @@
 # Website
-https://moraine8.github.io/epsilon-diary/
+https://epsilon-diary.more-n.net/
