@@ -69,6 +69,15 @@ a:hover {
   margin: 1.0rem 0;
 }
 
+.about-link {
+  text-align: right;
+  margin-bottom: 0.25rem;
+}
+
+.about-link__link {
+  color: #333333;
+}
+
 .github-link {
   text-align: right;
   margin-bottom: 0.25rem;

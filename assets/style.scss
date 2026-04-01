@@ -64,6 +64,13 @@ a {
     margin: 1.0rem 0;
 }
 
+.about-link {
+    text-align: right;
+    margin-bottom: 0.25rem;
+    &__link {
+        color: $font-color;
+    }
+}
 .github-link {
     text-align: right;
     margin-bottom: 0.25rem;
